@@ -80,7 +80,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25700
+            "stars": 25704
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2025-04-15T21:52:42Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105073
+            "stars": 105075
           }
         }
       ],
@@ -308,10 +308,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:26:13.979Z",
+    "last_updated": "2026-02-08T04:34:17.779Z",
     "original_repository": "NARKOZ/guides",
     "source_repository": "v1nvn/enhansome-guides",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Guides"
   }
 }
