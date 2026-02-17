@@ -62,7 +62,7 @@ coding style guides and development practices across the web.
 
 ### CSS
 
-* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,660 | 🐛 7 | 📅 2022-12-21
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,659 | 🐛 7 | 📅 2022-12-21
 * [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) ⭐ 3,661 | 🐛 13 | 📅 2022-09-01
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [HTML and CSS code guide](https://codeguide.co/)
@@ -78,7 +78,7 @@ coding style guides and development practices across the web.
 ### HTML
 
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) ⭐ 8,494 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
+* [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) ⭐ 8,495 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
 
 ### XML
 
@@ -103,7 +103,7 @@ coding style guides and development practices across the web.
 
 ### Clojure
 
-* [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) ⭐ 4,087 | 🐛 47 | 📅 2025-06-23
+* [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) ⭐ 4,087 | 🐛 51 | 📅 2026-02-16
 
 ### CoffeeScript
 
@@ -111,11 +111,11 @@ coding style guides and development practices across the web.
 
 ### Elixir
 
-* [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) ⭐ 4,418 | 🐛 8 | 🌐 Elixir | 📅 2024-05-10
+* [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) ⭐ 4,419 | 🐛 8 | 🌐 Elixir | 📅 2024-05-10
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 132,490 | 🐛 9,844 | 🌐 Go | 📅 2026-02-15
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 132,506 | 🐛 9,851 | 🌐 Go | 📅 2026-02-15
 
 ### Haskell
 
@@ -123,9 +123,9 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,087 | 🐛 185 | 🌐 JavaScript | 📅 2025-11-06
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,530 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
-* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,701 | 🐛 58 | 📅 2024-01-08
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,093 | 🐛 185 | 🌐 JavaScript | 📅 2025-11-06
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,528 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,705 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,435 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) ⭐ 403 | 🐛 2 | 📅 2016-08-17
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -158,12 +158,12 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,540 | 🐛 75 | 📅 2026-02-14
+* [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) ⭐ 16,542 | 🐛 75 | 📅 2026-02-14
 * [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 110,327 | 🐛 12,071 | 🌐 Rust | 📅 2026-02-16
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 110,372 | 🐛 12,096 | 🌐 Rust | 📅 2026-02-17
 
 ### Scala
 
@@ -181,7 +181,7 @@ coding style guides and development practices across the web.
 
 ### Swift
 
-* [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme) ⭐ 13,205 | 🐛 16 | 📅 2025-04-01
+* [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme) ⭐ 13,206 | 🐛 16 | 📅 2025-04-01
 
 ### Vimscript
 
@@ -191,7 +191,7 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-* [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) ⭐ 23,716 | 🐛 78 | 📅 2022-05-19
+* [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) ⭐ 23,718 | 🐛 78 | 📅 2022-05-19
 * [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### RSpec
@@ -213,7 +213,7 @@ coding style guides and development practices across the web.
 ### API
 
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) ⭐ 23,232 | 🐛 168 | 📅 2025-08-11
-* [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,696 | 🐛 30 | 📅 2024-01-16
+* [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) ⭐ 13,697 | 🐛 30 | 📅 2024-01-16
 * [Principles of good RESTful API
   Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
 * [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
@@ -255,7 +255,7 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,089 | 🐛 88 | 🌐 Dockerfile | 📅 2025-04-15
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,086 | 🐛 88 | 🌐 Dockerfile | 📅 2025-04-15
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 5,003 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
@@ -281,7 +281,7 @@ coding style guides and development practices across the web.
 ## Contributing
 
 Any improvements or suggestions are welcome!
-See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md) ⭐ 2,371 | 🐛 3 | 📅 2025-07-02.
+See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md) ⭐ 2,372 | 🐛 3 | 📅 2025-07-02.
 
 ***
 
