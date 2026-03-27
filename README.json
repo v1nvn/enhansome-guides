@@ -80,7 +80,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25704
+            "stars": 25702
           }
         },
         {
@@ -93,7 +93,7 @@
             "last_commit": "2026-02-24T14:05:16Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148110
+            "stars": 148118
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2025-08-11T21:31:30Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23255
+            "stars": 23257
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2022-09-26T20:12:02Z",
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5113
+            "stars": 5114
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2025-04-15T21:52:42Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105182
+            "stars": 105187
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:34:48.264Z",
+    "last_updated": "2026-03-27T04:35:40.445Z",
     "original_repository": "NARKOZ/guides",
     "source_repository": "v1nvn/enhansome-guides",
     "source_repository_description": null,
