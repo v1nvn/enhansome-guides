@@ -62,8 +62,8 @@ coding style guides and development practices across the web.
 
 ### CSS
 
-* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,654 | 🐛 7 | 📅 2022-12-21
-* [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) ⭐ 3,654 | 🐛 13 | 📅 2022-09-01
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) ⭐ 6,655 | 🐛 7 | 📅 2022-12-21
+* [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) ⭐ 3,655 | 🐛 13 | 📅 2022-09-01
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [HTML and CSS code guide](https://codeguide.co/)
 
@@ -94,7 +94,7 @@ coding style guides and development practices across the web.
 ### C++
 
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 44,897 | 🐛 251 | 🌐 CSS | 📅 2026-03-12
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) ⭐ 44,899 | 🐛 251 | 🌐 CSS | 📅 2026-03-12
 
 ### C\#
 
@@ -115,7 +115,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 133,442 | 🐛 9,960 | 🌐 Go | 📅 2026-04-11
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 133,459 | 🐛 9,953 | 🌐 Go | 📅 2026-04-14
 
 ### Haskell
 
@@ -123,7 +123,7 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,106 | 🐛 190 | 🌐 JavaScript | 📅 2026-02-24
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) ⭐ 148,108 | 🐛 189 | 🌐 JavaScript | 📅 2026-02-24
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) ⭐ 29,496 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) ⭐ 25,695 | 🐛 58 | 📅 2024-01-08
 * [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) ⭐ 1,432 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
@@ -139,7 +139,7 @@ coding style guides and development practices across the web.
 ### Objective-C
 
 * [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme) ⚠️ Archived
-* [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme) ⭐ 3,093 | 🐛 22 | 📅 2017-10-01
+* [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme) ⭐ 3,092 | 🐛 22 | 📅 2017-10-01
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
 
 ### PHP
@@ -163,7 +163,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 111,970 | 🐛 12,329 | 🌐 Rust | 📅 2026-04-13
+* [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) ⭐ 112,003 | 🐛 12,312 | 🌐 Rust | 📅 2026-04-14
 
 ### Scala
 
@@ -255,7 +255,7 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,181 | 🐛 99 | 🌐 Dockerfile | 📅 2025-04-15
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) ⭐ 105,178 | 🐛 98 | 🌐 Dockerfile | 📅 2025-04-15
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) ⭐ 4,996 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 
 ### Security
